@@ -25,3 +25,4 @@ Insertion loss and directivity are in agreement with typical values given in the
 
 Here's what the assembled PCB looks like in action:
 ![test setup](doc/images/transmission%20setup.jpg)
+(Note: the PCB in the setup shows the wrong coupler circuit. This has been fixed in the project files. The rendering above depicts the correct circuit.)
