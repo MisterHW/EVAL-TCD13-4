@@ -24,4 +24,4 @@ One board was assembled and tested over 0.5 - 1800 MHz using an HP 4396B network
 Insertion loss and directivity are in agreement with typical values given in the [TCD13-4+](https://www.minicircuits.com/WebStore/dashboard.html?model=TCD-13-4%2B) characterization from Mini-Ciruits.
 
 Here's what the assembled PCB looks like in action:
-![test setup](doc/images/transmission setup.jpg)
+![test setup](doc/images/transmission%20setup.jpg)
